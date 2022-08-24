@@ -45,3 +45,4 @@ out/
 !**/src/main/**
 !**/src/test/**
 .idea/workspace.xml
+/.idea/
